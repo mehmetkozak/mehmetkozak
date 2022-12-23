@@ -1,4 +1,4 @@
-  # Hi, I’m from Turkey. I am Software Test Engineer(QA), lawyer and tennis coach also...
+  # Hi 👋, I’m Software Test Engineer(QA), Lawyer and Tennis Coach also from Turkey...
 - 👀 Learning software and writing code is one of my biggest passions 🔥. 
 - 🕺 I like playing tennis 🎾, swimming 🏊🏽‍♂️  and seeing new places✈️.
 - 📫 How to reach me mehmetkozak46@gmail.com
@@ -32,7 +32,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="arnabdey0503 | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="arnabdey0503 | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="arnabdey0503 | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
