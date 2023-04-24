@@ -1,6 +1,6 @@
   # Hi 👋, I’m Software Test Engineer(QA), Lawyer and Tennis Coach also from Turkey...
 - 👀 Learning software and writing code is one of my biggest passions 🔥. 
-- 🕺 I like playing tennis 🎾, swimming 🏊🏽‍♂️  and seeing new places✈️.
+- 🕺 I like to play tennis 🎾, swimming 🏊🏽‍♂️  and visiting new places✈️.
 - 📫 How to reach me mehmetkozak46@gmail.com
 
 <br />
